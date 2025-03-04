@@ -6,14 +6,13 @@ layout: single
 author_profile: true
 ---
 
-**Working Papers**:
-- WP 1
-- WP 2
-- WP 3
+Welcome! I am an Assistant Professor of Economics at Cornell University and a CESifo Affiliate. I am an applied microeconomist working on topics in political economy. 
 
+I completed my PhD in Economics at Universitat Pompeu Fabra in 2021 and was a postdoctoral fellow at the University of Chicago in 2021-22. You can find my CV here.
 
-**Publications**:
+My email is mnd43@cornell.edu.
 
-- Pub 1
-- Pub 2
-- Pub 3
+My office address is:
+484 Uris Hall
+109 Tower Rd
+Ithaca, NY, 14853
