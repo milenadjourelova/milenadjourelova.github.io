@@ -6,7 +6,6 @@ layout: single
 author_profile: true
 ---
 
-<img src="/assets/images/IMG_MD.jpg" alt="My Avatar" width="150">
 
 Welcome! I am an Assistant Professor of Economics at Cornell University and a CESifo Affiliate. I am an applied microeconomist working on topics in political economy. 
 
