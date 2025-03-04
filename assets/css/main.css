@@ -1,0 +1,7 @@
+@import "minimal-mistakes";  // Ensure the base theme loads first
+
+.author__avatar img {
+  width: 150px !important;
+  height: 150px !important;
+  border-radius: 0 !important;
+}
