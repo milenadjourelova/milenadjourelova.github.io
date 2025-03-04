@@ -6,6 +6,8 @@ layout: single
 author_profile: true
 ---
 
+<img src="/assets/images/IMG_MD.jpg" alt="My Avatar" width="150">
+
 Welcome! I am an Assistant Professor of Economics at Cornell University and a CESifo Affiliate. I am an applied microeconomist working on topics in political economy. 
 
 I completed my PhD in Economics at Universitat Pompeu Fabra in 2021 and was a postdoctoral fellow at the University of Chicago in 2021-22. You can find my CV here.
