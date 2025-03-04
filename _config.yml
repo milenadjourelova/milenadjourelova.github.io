@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Milena Djourelova"
   avatar : "/assets/images/IMG_MD.jpg"
-  bio    : "I am an Assistant Professor of Economics at Cornell University and a CESifo Affiliate. I am an applied microeconomist working on topics in political economy."
+  bio    : "Assistant Professor of Economics at Cornell University. Applied microeconomics and political economy."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
