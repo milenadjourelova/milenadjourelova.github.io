@@ -58,7 +58,6 @@ plugins:
 author:
   name   : "Milena Djourelova"
   avatar : "/assets/images/IMG_MD.jpg"
-  avatar_size: 200  
   bio    : "Assistant Professor of Economics at Cornell University. Applied microeconomics and political economy."
   links:
     - label: "Website"
