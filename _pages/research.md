@@ -13,6 +13,13 @@ Experience, Narratives, and Climate Change Beliefs
 
 
 **Publications**:
-- Pub 1
-- Pub 2
-- Pub 3
+
+The Impact of Online Competition on Local Newspapers: Evidence from the Introduction of Craigslist 
+
+Media Slant and Public Policy Views 
+
+Persuasion through Slanted Language: Evidence from the Media Coverage of Immigration 
+
+Media Attention and Strategic Timing in Politics: Evidence from Presidential Executive Orders
+
+The Great Recession and Social Preferences: Evidence from Ukraine
