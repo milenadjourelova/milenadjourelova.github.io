@@ -6,7 +6,7 @@ title: ""
 **Working Papers**:
 
 
-- The Electoral Effects of Voting Technology: Evidence from Bulgaria
+The Electoral Effects of Voting Technology: Evidence from Bulgaria
 
     <details>
     <summary>abstract</summary>
@@ -15,7 +15,7 @@ title: ""
 
 
 
-- In Their Shoes: Empathy through Information
+In Their Shoes: Empathy through Information
 
     <details>
     <summary>abstract</summary>
