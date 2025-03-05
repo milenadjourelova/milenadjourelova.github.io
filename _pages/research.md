@@ -4,9 +4,9 @@ title: ""
 ---
 
 **Working Papers**:
-- WP 1
-- WP 2
-- WP 3
+- The Electoral Effects of Voting Technology: Evidence from Bulgaria
+- In Their Shoes: Empathy through Information
+- Experience, Narratives, and Climate Change Beliefs 
 
 
 **Publications**:
