@@ -5,7 +5,6 @@ title: ""
 
 **Working Papers**:
 
-#########################################
 
 The Electoral Effects of Voting Technology: Evidence from Bulgaria
 
