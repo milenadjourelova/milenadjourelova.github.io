@@ -60,8 +60,6 @@ author:
   avatar : "/assets/images/IMG_MD.jpg"
   bio    : "Assistant Professor of Economics at Cornell University. Applied microeconomics and political economy."
   links:
-    -label: "Email"
-     url: "mnd43@cornell.ued"
     -label: "Google Scholar"
      url: "https://scholar.google.com/citations?user=kSFKH0sAAAAJ&hl=en"
   #  - label: "Website"
