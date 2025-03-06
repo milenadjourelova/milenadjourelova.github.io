@@ -59,9 +59,7 @@ author:
   name   : "Milena Djourelova"
   avatar : "/assets/images/IMG_MD.jpg"
   bio    : "Assistant Professor of Economics at Cornell University. Applied microeconomics and political economy."
-  links:
-    -label: "Google Scholar"
-     url: "https://scholar.google.com/citations?user=kSFKH0sAAAAJ&hl=en"
+ # links:
   #  - label: "Website"
   #    icon: "fas fa-fw fa-link"
   #   url: "https://"
