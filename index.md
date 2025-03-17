@@ -9,7 +9,7 @@ author_profile: true
 
 Welcome! I am an Assistant Professor of Economics at Cornell University and a CESifo Affiliate. I am an applied microeconomist working on topics in political economy. 
 
-I completed my PhD in Economics at Universitat Pompeu Fabra in 2021 and was a postdoctoral fellow at the University of Chicago in 2021-22. You can find my CV here.
+I completed my PhD in Economics at Universitat Pompeu Fabra in 2021 and was a postdoctoral fellow at the University of Chicago in 2021-22. 
 
 My email is mnd43@cornell.edu.
 
