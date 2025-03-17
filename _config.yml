@@ -56,7 +56,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Milena Djourelova"
+  name   : ""
   avatar : "/assets/images/IMG_MD.jpg"
   bio    : "Assistant Professor of Economics at Cornell University."
  # links:
