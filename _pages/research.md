@@ -32,6 +32,7 @@ title: ""
 
 #### The Impact of Online Competition on Local Newspapers: Evidence from the Introduction of Craigslist 
 (with Ruben Durante and Greg Martin)
+
 *Review of Economic Studies, May 2024*
 <details>
   <summary>abstract</summary>
