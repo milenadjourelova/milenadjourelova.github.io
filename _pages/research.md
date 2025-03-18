@@ -30,7 +30,7 @@ title: ""
 ## Publications:
 
 #### The Impact of Online Competition on Local Newspapers: Evidence from the Introduction of Craigslist 
-(with Ruben Durante and Greg Martin)
+(with Ruben Durante and Greg Martin)  
 *Review of Economic Studies, May 2024*
 <details>
   <summary>abstract</summary>
@@ -38,15 +38,15 @@ How does competition from online platforms affect the organization, performance,
 </details>
 
 #### Media Slant and Public Policy Views 
-(with Ruben Durante, Elliot Motte and Eleonora Patacchini)
-*American Economic Association Papers and Proceedings, May 2024*
+(with Ruben Durante, Elliot Motte and Eleonora Patacchini)  
+*American Economic Association Papers and Proceedings, May 2024*  
 <details>
   <summary>abstract</summary>
 We study how exposure to partisan news channels (Fox News and MSNBC) affects individual views on four policy issues: climate change, gun rights, abortion, and immigration. First, using GPT to annotate news transcripts, we document large differences in the way the two networks cover these issues. Second, exploiting exogenous variation in viewership due to channels' positions in cable lineups, we show that exposure to Fox News (MSNBC) is associated with more conservative (progressive) views, even when controlling for self-reported ideology and party affiliation. Our findings indicate that partisan media contribute to the rise of political polarization in the United States.
 </details>
 
 #### Persuasion through Slanted Language: Evidence from the Media Coverage of Immigration 
-*American Economic Review, March 2023*
+*American Economic Review, March 2023*  
 <details>
   <summary>abstract</summary>
 I study the persuasive effects of slanted language, exploiting a ban on the politically charged term "illegal immigrant" by the Associated Press (AP) news wire. My empirical strategy combines the timing of the ban with variation across media outlets in their baseline reliance on AP copy. I document sizable diffusion of the ban from AP copy to media outlets. Moreover, individuals exposed to the ban through local media show significantly lower support for restrictive immigration policies. This effect is more pronounced for moderates and in locations with fewer immigrants, and does not transfer to views on issues other than immigration.
