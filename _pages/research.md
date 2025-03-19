@@ -46,10 +46,10 @@ We study how exposure to partisan news channels (Fox News and MSNBC) affects ind
 I study the persuasive effects of slanted language, exploiting a ban on the politically charged term "illegal immigrant" by the Associated Press (AP) news wire. My empirical strategy combines the timing of the ban with variation across media outlets in their baseline reliance on AP copy. I document sizable diffusion of the ban from AP copy to media outlets. Moreover, individuals exposed to the ban through local media show significantly lower support for restrictive immigration policies. This effect is more pronounced for moderates and in locations with fewer immigrants, and does not transfer to views on issues other than immigration.
 </details>
 
-#### Media Attention and Strategic Timing in Politics: Evidence from Presidential Executive Orders
-(with Ruben Durante)
+#### Media Attention and Strategic Timing in Politics: Evidence from Presidential Executive Orders  
+(with Ruben Durante)  
 *American Journal of Political Science, October 2022*
 
-#### The Great Recession and Social Preferences: Evidence from Ukraine
-(with Ralph De Haas and Elena Nikolova)
+#### The Great Recession and Social Preferences: Evidence from Ukraine  
+(with Ralph De Haas and Elena Nikolova)  
 *Journal of Comparative Economics, February 2016*
