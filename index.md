@@ -13,7 +13,7 @@ I completed my PhD in Economics at Universitat Pompeu Fabra in 2021 and was a po
 
 My email is mnd43@cornell.edu.
 
-My office address is:
-484 Uris Hall
-109 Tower Rd
+My office address is:  
+484 Uris Hall  
+109 Tower Rd  
 Ithaca, NY, 14853
