@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: " "
 email: mnd43@cornell.edu
-description: "Milena's personal website" 
+description: #
 twitter_username: username
 github_username: milenadjourelova
 minimal_mistakes_skin: default
