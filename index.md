@@ -11,9 +11,9 @@ Welcome! I am an Assistant Professor of Economics at Cornell University and a CE
 
 I completed my PhD in Economics at Universitat Pompeu Fabra in 2021 and was a postdoctoral fellow at the University of Chicago in 2021-22. 
 
-My email is mnd43@cornell.edu.
+**Email**: mnd43@cornell.edu.
 
-My office address is:  
+**Office address**:  
 484 Uris Hall  
 109 Tower Rd  
 Ithaca, NY, 14853
