@@ -58,7 +58,11 @@ author:
   name   : "Milena Djourelova"
   avatar : "/assets/images/IMG_MD.jpg"
   bio    : "Assistant Professor of Economics, <\br> Cornell University."
+  location: "Ithaca, NY"
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:mnd43@cornell.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://"
