@@ -56,3 +56,8 @@ Do politicians tend to adopt unpopular policies when the media and the public ar
 #### The Great Recession and Social Preferences: Evidence from Ukraine  
 (with Ralph De Haas and Elena Nikolova)  
 *Journal of Comparative Economics, February 2016*
+<details><summary>abstract</summary>
+We use detailed survey data to document stark differences between West and East Ukraine when it comes to household attitudes toward market-based economies and democratic institutions. Along both of these dimensions, Eastern Ukrainians are decidedly less supportive of liberal systems. We also find that economic attitudes changed in response to the global financial crisis. West Ukrainian households who were affected more extensively by the crisis were more disappointed with the market and private ownership, while in Eastern Ukraine economic attitudes became less pro-market across the board. Our evidence suggests that attitudes and values are determined by both deep-rooted factors and more transient macroeconomic shocks.
+</details>
+
+
