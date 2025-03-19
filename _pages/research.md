@@ -36,7 +36,7 @@ How does competition from online platforms affect the organization, performance,
 </details>
 
 
-#### Media Slant and Public Policy Views  
+#### [Media Slant and Public Policy Views](https://www.aeaweb.org/articles?id=10.1257/pandp.20241005)  
 (with Ruben Durante, Elliot Motte and Eleonora Patacchini)  
 *American Economic Association Papers and Proceedings, May 2024*  
 <details><summary>abstract</summary>
