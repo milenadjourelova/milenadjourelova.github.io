@@ -14,8 +14,7 @@ You can find my Google Scholar page [here](https://scholar.google.com/citations?
 My email is: mnd43\[at]cornell.edu. 
 
 My office address is:  
-484 Uris Hall  
-109 Tower Rd  
+484 Uris Hall, 109 Tower Rd  
 Ithaca, NY, 14853 
 
 
