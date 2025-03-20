@@ -11,7 +11,7 @@ Welcome! I am an Assistant Professor of Economics at Cornell University and a CE
 
 You can find my Google Scholar page [here](https://scholar.google.com/citations?user=kSFKH0sAAAAJ&hl=en).
 
-My email is: [mnd43\[at]cornell.edu].
+My email is: mnd43\[at]cornell.edu.
 
 My office address is:  
 484 Uris Hall  
