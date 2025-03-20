@@ -13,7 +13,7 @@ I completed my PhD in Economics at Universitat Pompeu Fabra in 2021 and was a po
 
 My **email** is: mnd43\[at]cornell.edu.
 
-My office address is:
+My office address is:  
 <small>
 484 Uris Hall  
 109 Tower Rd  
