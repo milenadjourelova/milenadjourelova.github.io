@@ -17,3 +17,5 @@ My office address is:
 484 Uris Hall  
 109 Tower Rd  
 Ithaca, NY, 14853
+
+![image info](assets/images/IMG_MD.jpg)
