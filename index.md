@@ -9,7 +9,7 @@ author_profile: true
 
 Welcome! I am an Assistant Professor at the Economics Department of Cornell University and a CESifo Affiliate. I am an applied microeconomist working on topics in political economy. 
 
-Contact:
+Contact:  
 484 Uris Hall,
 109 Tower Rd,
 Ithaca NY 14853 
