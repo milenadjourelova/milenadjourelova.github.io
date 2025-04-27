@@ -6,6 +6,7 @@ title: ""
 ## Working Papers:
 
 
+
 #### [The Electoral Effects of Voting Technology: Evidence from Bulgaria](BG_Elections.pdf)  
 (with Teodora Tsankova), April 2025  
 *Policy brief for the Bulgarian Council of Economic Analyses: [Whose Vote Counts](In+focus+-+Tsankova+and+Djourelova_published.pdf)*
