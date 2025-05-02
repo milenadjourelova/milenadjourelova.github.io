@@ -23,9 +23,9 @@ html {
     }
 }
 
-@media (min-width: 80em) {
+@media (min-width: 150em) {
   .sidebar__right {
-      width: 300px;
+      width: 500px;
       margin-right: -300px;
       float: right;
       position: sticky;
