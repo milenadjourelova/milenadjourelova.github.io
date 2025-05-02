@@ -22,3 +22,12 @@ html {
         font-size: 18px; // originally 22px
     }
 }
+
+@media (min-width: 80em) {
+  .sidebar__right {
+      width: 300px;
+      margin-right: -300px;
+      float: right;
+      position: sticky;
+  }
+}
