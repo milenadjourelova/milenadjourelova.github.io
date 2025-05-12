@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="zdzJC0-GtXE-1Cujl21GkwkC6S4fGM22HYsPT1vdALw" />
 ---
 # You don't need to edit this file, it's empty on purpose.
 # Edit theme's home layout instead if you wanna make some changes
