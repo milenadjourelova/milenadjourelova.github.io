@@ -58,8 +58,8 @@ plugins:
 author:
   name   : " "
   avatar : "/assets/images/IMG_MD.jpg"
-  bio    : "Assistant Professor of Economics, Cornell University."
-  location: "Ithaca, NY"
+  bio    : "Assistant Professor of Economics, University of Southern California."
+  location: "Los Angeles, CA"
   links:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
