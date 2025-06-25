@@ -7,13 +7,16 @@ author_profile: true
 ---
 
 
-Welcome! I am an Assistant Professor at the Economics Department of Cornell University and a CESifo Affiliate. I am an applied microeconomist working on topics in political economy. 
+Welcome! I am an Assistant Professor at the Economics Department of Cornell University and a CESifo Affiliate. 
+I am an applied microeconomist working on topics in political economy. 
+
+In August 2025, I will join the Economics Department of the University of Southern California.
 
 Contact:  
-484 Uris Hall,
-109 Tower Rd,
-Ithaca NY 14853 
+USC Dornsife: Department of Economics,
+3620 South Vermont Avenue, 
+Los Angeles, CA 90089-0253
 
-Email:  mnd43\[at]cornell.edu
+Email:  milena.djourelova\[at]usc.edu
 
 
