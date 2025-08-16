@@ -7,10 +7,7 @@ author_profile: true
 ---
 
 
-Welcome! I am an Assistant Professor at the Economics Department of Cornell University and a CESifo Affiliate. 
-I am an applied microeconomist working on topics in political economy. 
-
-In August 2025, I will join the Economics Department of the University of Southern California.
+Welcome! I am an Assistant Professor of Economics at the University of Southern California and a CESifo Research Affiliate. I am an applied microeconomist working on topics in political economy.
 
 Contact:  
 USC Dornsife: Department of Economics,
