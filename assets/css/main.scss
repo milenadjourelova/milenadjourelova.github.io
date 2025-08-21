@@ -7,11 +7,18 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-/* Your custom overrides go below */
-.author__avatar img {
+/* Kill the avatar fade (no hover change either) */
+.author__avatar img,
+.author__avatar a img,
+.sidebar .author__avatar img {
   opacity: 1 !important;
   filter: none !important;
   transition: none !important;
+}
+.author__avatar img:hover,
+.author__avatar a img:hover {
+  opacity: 1 !important;
+  filter: none !important;
 }
 
 // https://github.com/mmistakes/minimal-mistakes/issues/1219#issuecomment-326809412
