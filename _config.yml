@@ -87,6 +87,10 @@ footer:
    #   url: "https://instagram.com/"
 
 defaults:
+  - scope:
+      path: ""
+    values:
+      custom_css: "/assets/css/custom.css"
   # _posts
   - scope:
       path: ""
@@ -105,6 +109,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+       
 
 category_archive:
   type: liquid
