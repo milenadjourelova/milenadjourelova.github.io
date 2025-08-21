@@ -1,24 +1,43 @@
---- 
-# Only the main Sass file needs front matter (the dashes are enough) 
---- 
-
+---
+---
 @charset "utf-8";
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
 
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials
 
-/* Kill the avatar fade (no hover change either) */
+/* Prove CSS loads during troubleshooting */
+body::after {
+  content: "custom CSS active";
+  position: fixed;
+  right: 8px;
+  bottom: 8px;
+  font: 12px/1 system-ui, -apple-system, Segoe UI, Roboto, Arial;
+  background: rgba(0,0,0,.08);
+  padding: 4px 6px;
+  border-radius: 4px;
+  z-index: 99999;
+}
+
+/* Avatar fade killers */
+.author__avatar,
 .author__avatar img,
+.author__avatar a,
 .author__avatar a img,
+.sidebar .author__avatar,
 .sidebar .author__avatar img {
   opacity: 1 !important;
   filter: none !important;
+  -webkit-filter: none !important;
   transition: none !important;
 }
+
+.author__avatar:hover,
 .author__avatar img:hover,
+.author__avatar a:hover,
 .author__avatar a img:hover {
   opacity: 1 !important;
   filter: none !important;
+  -webkit-filter: none !important;
 }
 
 // https://github.com/mmistakes/minimal-mistakes/issues/1219#issuecomment-326809412
