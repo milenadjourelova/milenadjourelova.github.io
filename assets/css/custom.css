@@ -1,0 +1,5 @@
+/* Override faded avatar effect */
+.author__avatar img {
+  opacity: 1 !important;
+  filter: none !important;
+}
