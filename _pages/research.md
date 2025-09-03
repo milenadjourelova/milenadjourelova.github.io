@@ -59,7 +59,7 @@ title: ""
 
 #### [Media Attention and Strategic Timing in Politics: Evidence from Presidential Executive Orders](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12683)  
 (with Ruben Durante)  
-*American Journal of Political Science*, December 2021
+*American Journal of Political Science*, October 2022
 <details><summary>abstract</summary>
 <small>Do politicians tend to adopt unpopular policies when the media and the public are distracted by other events? We examine this question by analyzing the timing of executive orders signed by U.S. presidents over the past four decades. We find robust evidence that executive orders are more likely to be signed on the eve of days when the news is dominated by other important stories that can crowd out coverage of executive orders. This relationship only holds in periods of divided government when unilateral presidential actions are more likely to be criticized by Congress. The effect is driven by executive orders that are more likely to make the news and to attract negative publicity, particularly those on topics on which president and Congress disagree. Finally, the timing of executive orders appears to be related to predictable news but not unpredictable ones, which suggests it results from a deliberate and forward-looking PR strategy.
 </small> </details>
