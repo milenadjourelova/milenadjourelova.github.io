@@ -8,7 +8,7 @@ title: ""
 
 
 #### [The Electoral Effects of Voting Technology: Evidence from Bulgaria](BG_Elections.pdf)  
-(with Teodora Tsankova), August 2025  
+(with Teodora Tsankova), September 2025  
 *Related policy brief: [Whose Vote Counts](Whose_Vote_Counts.pdf)*
 <details> <summary>abstract</summary> 
   <small> Can voting technology improve the integrity of elections in developing democracies? We study this question in the context of Bulgaria’s transition from paper ballots to direct-recording electronic machines -- a measure intended to improve accuracy, enhance ballot secrecy and reduce opportunities for human interference in the voting process. Our empirical strategy leverages a sharp discontinuity in the allocation of voting machines across polling stations, and variation in their implementation across nine general elections. We document two main findings. First, in line with prior work, machine voting significantly increases the share of valid votes. Second, machine voting causes a large reduction in turnout, concentrated in poor, rural, and high–fraud-risk localities. This decline is driven by votes for parties that were locally dominant at baseline, while votes for other parties remain unchanged. Notably, the effect arises only when machine voting is fully implemented—but not when it is optional alongside paper ballots. Representative surveys suggest that a reduction in bought or fictitious votes is a likely mechanism, and provide little support for alternative explanations such as voters' technological aversion. Taken together, the findings indicate that, in settings with independent electoral authorities, voting technology can mitigate localized forms of electoral fraud, and inform ongoing debates over its implementation.
