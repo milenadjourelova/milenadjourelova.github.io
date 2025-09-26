@@ -32,7 +32,7 @@ title: ""
  </small> </details>
 
 #### [One Fed, Many Voices: Coordinated Communication vs. Transparent Debate](Fed_Communication.pdf)
-(with Filippo Ferroni, Leonardo Melosi and Alessandro Villa)
+(with Filippo Ferroni, Leonardo Melosi and Alessandro Villa), September 2025
  
 
 ## Publications:
