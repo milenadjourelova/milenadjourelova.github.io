@@ -31,6 +31,10 @@ title: ""
  <small>Linking the location and timing of US-based natural disasters to large-scale electoral survey data, we study how the experience of a natural disaster affects climate change beliefs and how experience interacts with ideology. Contrary to the predictions of standard learning models, we find evidence for divergence in beliefs: exposure to the same disaster event increases stated climate change and environmental concerns among liberals but decreases them among conservatives, widening the ideological gap by 11-17%. We further provide evidence of conflicting ideological media discourse on climate change in the aftermath of disasters by applying GPT as a novel text annotation approach. Our findings are consistent with natural disasters making the debate around climate change and partisan cleavages on this issue more salient and further polarizing initial beliefs. We discuss implications for the timing of efforts to build consensus on climate action.
  </small> </details>
 
+#### [One Fed, Many Voices: Coordinated Communication vs. Transparent Debate](Fed_Communication.pdf)
+(with Filippo Ferroni, Leonardo Melosi and Alessandro Villa)
+ 
+
 ## Publications:
 
 #### [The Impact of Online Competition on Local Newspapers: Evidence from the Introduction of Craigslist](https://academic.oup.com/restud/advance-article/doi/10.1093/restud/rdae049/7665573)  
