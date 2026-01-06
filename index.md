@@ -11,7 +11,9 @@ Welcome! I am an Assistant Professor of Economics at the University of Southern 
 
 Contact:  
 USC Dornsife: Department of Economics,
+
 3620 South Vermont Avenue, KAP 314,
+
 Los Angeles, CA 90089-0253
 
 Email:  milena.djourelova\[at]usc.edu
