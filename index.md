@@ -7,11 +7,11 @@ author_profile: true
 ---
 
 
-Welcome! I am an incoming Assistant Professor of Economics at the University of Southern California and a CESifo Research Affiliate. I am an applied microeconomist working on topics in political economy.
+Welcome! I am an Assistant Professor of Economics at the University of Southern California and a CESifo Research Affiliate. I am an applied microeconomist working on topics in political economy.
 
 Contact:  
 USC Dornsife: Department of Economics,
-3620 South Vermont Avenue, 
+3620 South Vermont Avenue, KAP 314,
 Los Angeles, CA 90089-0253
 
 Email:  milena.djourelova\[at]usc.edu
