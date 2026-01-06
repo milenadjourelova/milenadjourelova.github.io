@@ -4,7 +4,10 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
 
-/* (optional) your real overrides go here */
+.author__avatar img {
+  filter: none !important;
+  -webkit-filter: none !important;
+}
 
 // https://github.com/mmistakes/minimal-mistakes/issues/1219#issuecomment-326809412
 html {
