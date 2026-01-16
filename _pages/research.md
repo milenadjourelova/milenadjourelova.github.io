@@ -53,7 +53,7 @@ title: ""
 
 #### [Persuasion through Slanted Language: Evidence from the Media Coverage of Immigration](https://www.aeaweb.org/articles?id=10.1257/aer.20211537)  
 *American Economic Review*, March 2023  
-[Econonimate](https://www.youtube.com/watch?v=fKv-Wi4_ysY), [AEA Highlights](https://www.aeaweb.org/research/slanted-language-media-immigration)
+  <span style="font-size: 0.85em;">Summary: [Econonimate](https://www.youtube.com/watch?v=fKv-Wi4_ysY), [AEA Highlights](https://www.aeaweb.org/research/slanted-language-media-immigration)</span>   
 <details><summary>abstract</summary>
 <small>I study the persuasive effects of slanted language, exploiting a ban on the politically charged term "illegal immigrant" by the Associated Press (AP) news wire. My empirical strategy combines the timing of the ban with variation across media outlets in their baseline reliance on AP copy. I document sizable diffusion of the ban from AP copy to media outlets. Moreover, individuals exposed to the ban through local media show significantly lower support for restrictive immigration policies. This effect is more pronounced for moderates and in locations with fewer immigrants, and does not transfer to views on issues other than immigration.
 </small> </details>
