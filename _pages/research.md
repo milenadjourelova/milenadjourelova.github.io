@@ -11,6 +11,7 @@ title: ""
 (with Teodora Tsankova)  
 *Revise & Resubmit -- American Economic Journal: Economic Policy*  
 <span style="font-size: 0.85em;">*Related policy brief: [Whose Vote Counts](Whose_Vote_Counts.pdf)*</span>  
+<span style="font-size: 0.85em;">*Coverage: [Capital](https://www.capital.bg/politika_i_ikonomika/redakcionni_komentari/2025/05/02/4776314_analiz_chii_glas_se_broi_tehnologii_za_glasuvane_i/), [BNR](https://bnrnews.bg/horizont/post/345119/analiz-glasuvaneto-s-mashini-na-izborite-eliminira-nedeistvitelnite-glasove)*</span>  
 <details> <summary>abstract</summary> 
   <small> Can voting technology improve electoral integrity in developing democracies? We study Bulgaria’s transition from paper ballots to electronic machines, designed to enhance accuracy, ballot secrecy, and limit human interference. Exploiting a discontinuity in machine allocation, we find that machine voting increases valid votes but sharply reduces turnout in poor, rural, and high–fraud–risk localities. The decline stems from votes for locally dominant parties and arises only under full, not mixed, implementation. Representative surveys suggest that a reduction in bought or fictitious votes is a likely mechanism, and provide little support for alternative explanations such as voters' technological aversion.
   </small> </details>
