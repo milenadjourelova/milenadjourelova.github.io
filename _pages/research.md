@@ -8,7 +8,7 @@ title: ""
 
 
 #### [The Electoral Effects of Voting Technology: Evidence from Bulgaria](BG_Elections.pdf)  
-(with Teodora Tsankova)
+(with Teodora Tsankova)  
 *Revise & Resubmit -- American Economic Journal: Economic Policy*  
 <span style="font-size: 0.85em;">*Related policy brief: [Whose Vote Counts](Whose_Vote_Counts.pdf)*</span>  
 <details> <summary>abstract</summary> 
@@ -18,7 +18,7 @@ title: ""
 
 
 #### [In Their Shoes: Empathy through Information](Carne_y_Arena.pdf) 
-(with Marianne Andries, Leonardo Bursztyn, Thomas Chaney and Alex Imas)
+(with Marianne Andries, Leonardo Bursztyn, Thomas Chaney and Alex Imas)  
 *Revise & Resubmit -- Quarterly Journal of Economics*
 <details><summary>abstract</summary>
   <small>We explore the mechanics of empathy. We show that information about an outgroup can potentially activate and magnify empathy when presented in conjunction with an experience simulating their struggles. This response increases the willingness to help the struggling group, but it is only activated when the information comes before the experience and not after. We provide evidence for this effect in an immersive virtual reality experiment where participants (“witnesses”) simulate the struggle of unauthorized migrants (“protagonists”). These results are then replicated in a series of controlled lab experiments. We show that this effect operates through an increase in interpersonal similarity, or relatability. If information shifts perceptions of relatability, which changes people’s experience when witnessing the protagonist’s struggles, then it magnifies their empathetic response and drives them to engage in more prosocial behavior. Together, our evidence suggests that the ability to put oneself in the shoes of another person or group can be enhanced by activating empathy through simple information provision.
@@ -26,7 +26,7 @@ title: ""
 
 
 #### [Experience, Narratives, and Climate Change Beliefs](Climate_Change_Beliefs.pdf)
-(with Ruben Durante, Elliot Motte and Eleonora Patacchini) 
+(with Ruben Durante, Elliot Motte and Eleonora Patacchini)   
 *Revise & Resubmit -- Journal of the European Economic Association*
 <details><summary>abstract</summary>
  <small>Linking the location and timing of US-based natural disasters to large-scale electoral survey data, we study how the experience of a natural disaster affects climate change beliefs and how experience interacts with ideology. Contrary to the predictions of standard learning models, we find evidence for divergence in beliefs: exposure to the same disaster event increases stated climate change and environmental concerns among liberals but decreases them among conservatives, widening the ideological gap by 11-17%. We further provide evidence of conflicting ideological media discourse on climate change in the aftermath of disasters by applying GPT as a novel text annotation approach. Our findings are consistent with natural disasters making the debate around climate change and partisan cleavages on this issue more salient and further polarizing initial beliefs. We discuss implications for the timing of efforts to build consensus on climate action.
