@@ -9,8 +9,8 @@ title: ""
 
 #### [The Electoral Effects of Voting Technology: Evidence from Bulgaria](BG_Elections.pdf)  
 (with Teodora Tsankova), October 2025  
-<span style="font-size: 0.85em;">*Related policy brief: [Whose Vote Counts](Whose_Vote_Counts.pdf)*</span>  
 *Revise & Resubmit -- American Economic Journal: Economic Policy*  
+<span style="font-size: 0.85em;">*Related policy brief: [Whose Vote Counts](Whose_Vote_Counts.pdf)*</span>  
 <details> <summary>abstract</summary> 
   <small> Can voting technology improve electoral integrity in developing democracies? We study Bulgaria’s transition from paper ballots to electronic machines, designed to enhance accuracy, ballot secrecy, and limit human interference. Exploiting a discontinuity in machine allocation, we find that machine voting increases valid votes but sharply reduces turnout in poor, rural, and high–fraud–risk localities. The decline stems from votes for locally dominant parties and arises only under full, not mixed, implementation. Representative surveys suggest that a reduction in bought or fictitious votes is a likely mechanism, and provide little support for alternative explanations such as voters' technological aversion.
   </small> </details>
