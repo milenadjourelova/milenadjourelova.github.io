@@ -78,5 +78,5 @@ title: ""
 ## Other Research:
 
 #### [One Fed, Many Voices: Coordinated Communication vs. Transparent Debate](OneFedManyVoices.pdf)
-(with Filippo Ferroni, Leonardo Melosi and Alessandro Villa), September 2025
+(with Filippo Ferroni, Leonardo Melosi and Alessandro Villa), February 2026
  
