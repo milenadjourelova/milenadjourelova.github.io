@@ -75,6 +75,15 @@ title: ""
 </small> </details>
 
 
+## Work in Progress:
+
+#### [Context and Peer Effects in Voter Turnout: Evidence from Norwegian Movers] 
+(with Sebastian Ellingsen and Øystein Hernæs)
+<details><summary>abstract</summary>
+<small>We study how local context shapes individual turnout using administrative data on the full population of eligible voters in Norway, linked to time-varying socioeconomic characteristics and residential histories. Our empirical strategy exploits moves across neighborhoods and electoral regions, while controlling for changes in voting costs. We find that moving to a neighborhood with 10 percentage points higher turnout increases an individual’s turnout in local elections by about 0.6 percentage points, with larger effects for comparable-distance moves that cross local election boundaries. Although roughly half of Norwegian voters cast ballots early, the effect is concentrated in Election Day voting, when turnout is more likely to be observable. We find weaker evidence of place effects in parliamentary elections, where party competition is largely national rather than locally differentiated. These patterns are consistent with context affecting turnout through both peer pressure and social learning about the electoral environment.
+</small> </details>
+
+
 ## Other Research:
 
 #### [One Fed, Many Voices: Coordinated Communication vs. Transparent Debate](OneFedManyVoices.pdf)  
