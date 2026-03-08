@@ -51,12 +51,13 @@ html {
 }
 }
 
-.sidebar .author__avatar,
-.sidebar .author__avatar a,
-.sidebar .author__avatar img,
 .author__avatar,
 .author__avatar a,
-.author__avatar img {
+.author__avatar img,
+.author__avatar a:hover,
+.author__avatar a:focus,
+.author__avatar img:hover {
   opacity: 1 !important;
   filter: none !important;
+  mix-blend-mode: normal !important;
 }
