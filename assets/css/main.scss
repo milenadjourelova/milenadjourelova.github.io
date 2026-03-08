@@ -51,6 +51,7 @@ html {
 }
 }
 
+
 .author__avatar,
 .author__avatar a,
 .author__avatar img {
@@ -58,4 +59,14 @@ html {
   filter: none !important;
   mix-blend-mode: normal !important;
   background: white !important;
+}
+
+@include breakpoint($large) {
+  .sidebar {
+    opacity: 1 !important;
+  }
+
+  .sidebar:hover {
+    opacity: 1 !important;
+  }
 }
