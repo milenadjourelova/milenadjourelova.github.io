@@ -51,6 +51,12 @@ html {
 }
 }
 
+.sidebar .author__avatar,
+.sidebar .author__avatar a,
+.sidebar .author__avatar img,
+.author__avatar,
+.author__avatar a,
 .author__avatar img {
   opacity: 1 !important;
+  filter: none !important;
 }
