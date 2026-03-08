@@ -88,3 +88,15 @@ details {
   margin-top: 0.2em;
   margin-bottom: 0.5em;
 }
+
+.page__content {
+  p,
+  li,
+  dl {
+    line-height: 1.35 !important;
+  }
+
+  p {
+    margin-bottom: 0.35em !important;
+  }
+}
