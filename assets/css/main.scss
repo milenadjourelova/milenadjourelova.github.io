@@ -15,11 +15,11 @@ html {
     }
 
     @include breakpoint($large) {
-        font-size: 18px; // originally 20px
+        font-size: 17px; // originally 20px
     }
 
     @include breakpoint($x-large) {
-        font-size: 20px; // originally 22px
+        font-size: 18px; // originally 22px
     }
 }
 
@@ -51,5 +51,6 @@ html {
 }
 }
 
-.author__avatar img { opacity: 1 !important; }
-.author__avatar a img { opacity: 1 !important; }
+.author__avatar img {
+  opacity: 1 !important;
+}
