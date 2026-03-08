@@ -51,7 +51,11 @@ html {
 }
 }
 
+.author__avatar,
+.author__avatar a,
 .author__avatar img {
   opacity: 1 !important;
-  outline: 5px solid red !important;
+  filter: none !important;
+  mix-blend-mode: normal !important;
+  background: white !important;
 }
