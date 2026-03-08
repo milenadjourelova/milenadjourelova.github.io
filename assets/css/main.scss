@@ -51,13 +51,7 @@ html {
 }
 }
 
-.author__avatar,
-.author__avatar a,
-.author__avatar img,
-.author__avatar a:hover,
-.author__avatar a:focus,
-.author__avatar img:hover {
+.author__avatar img {
   opacity: 1 !important;
-  filter: none !important;
-  mix-blend-mode: normal !important;
+  outline: 5px solid red !important;
 }
