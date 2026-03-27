@@ -87,6 +87,6 @@ title: ""
 ## Other Research:
 
 #### [One Fed, Many Voices: Coordinated Communication vs. Transparent Debate](OneFedManyVoices.pdf)  
-(with Filippo Ferroni, Leonardo Melosi and Alessandro Villa), February 2026  
+(with Filippo Ferroni, Leonardo Melosi and Alessandro Villa), March 2026  
   <span style="font-size: 0.85em;"> [Chicago Fed Insights](https://www.chicagofed.org/publications/chicago-fed-insights/2025/communicating-monetary-policy-by-committee)</span>   
  
