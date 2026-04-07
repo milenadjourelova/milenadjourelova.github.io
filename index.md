@@ -9,7 +9,7 @@ author_profile: true
 
 Welcome! I am an Assistant Professor of Economics at the University of Southern California and a CESifo Research Affiliate. 
 
-I am an applied microeconomist working on topics in political economy. My research interests include information, media, and electoral politics.
+I am an applied microeconomist studying political economy, with a focus on information, media, and electoral politics.
 
 Contact:  
 
