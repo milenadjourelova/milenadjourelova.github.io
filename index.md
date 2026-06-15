@@ -7,9 +7,9 @@ author_profile: true
 ---
 
 
-Welcome! I am an Assistant Professor of Economics at the University of Southern California and a CESifo Research Affiliate. 
+Welcome! I am an Assistant Professor of Economics at the University of Southern California, an Affiliate Fellow at the Stigler Center at Chicago Booth, and a CESifo Research Affiliate. 
 
-My research is in applied microeconomics and political economy, with a focus on information, media, and electoral politics.
+My research is in applied microeconomics and political economy, with a focus on information, media, and elections.
 
 Contact:  
 
