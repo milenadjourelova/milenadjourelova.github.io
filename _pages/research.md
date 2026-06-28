@@ -16,15 +16,6 @@ title: ""
   </small> </details>
   
 
-
-#### [In Their Shoes: Empathy through Information](Carne_y_Arena.pdf) 
-(with Marianne Andries, Leonardo Bursztyn, Thomas Chaney and Alex Imas)  
-*conditionally accepted -- Quarterly Journal of Economics*
-<details><summary>abstract</summary>
-  <small>We explore the mechanics of empathy. We show that information about an outgroup can potentially activate and magnify empathy when presented in conjunction with an experience simulating their struggles. This response increases the willingness to help the struggling group, but it is only activated when the information comes before the experience and not after. We provide evidence for this effect in an immersive virtual reality experiment where participants (“witnesses”) simulate the struggle of unauthorized migrants (“protagonists”). These results are then replicated in a series of controlled lab experiments. We show that this effect operates through an increase in interpersonal similarity, or relatability. If information shifts perceptions of relatability, which changes people’s experience when witnessing the protagonist’s struggles, then it magnifies their empathetic response and drives them to engage in more prosocial behavior. Together, our evidence suggests that the ability to put oneself in the shoes of another person or group can be enhanced by activating empathy through simple information provision.
-  </small> </details>
-
-
 #### [Experience, Narratives, and Climate Change Beliefs](Climate_Change_Beliefs.pdf)
 (with Ruben Durante, Elliot Motte and Eleonora Patacchini)   
 *Revise & Resubmit -- Journal of the European Economic Association*
@@ -34,6 +25,15 @@ title: ""
 
 
 ## Publications:
+
+
+#### [In Their Shoes: Empathy through Information](Carne_y_Arena.pdf) 
+(with Marianne Andries, Leonardo Bursztyn, Thomas Chaney and Alex Imas)  
+*Quarterly Journal of Economics*, forthcoming
+<details><summary>abstract</summary>
+  <small>We explore the mechanics of empathy. We show that information about an outgroup can potentially activate and magnify empathy when presented in conjunction with an experience simulating their struggles. This response increases the willingness to help the struggling group, but it is only activated when the information comes before the experience and not after. We provide evidence for this effect in an immersive virtual reality experiment where participants (“witnesses”) simulate the struggle of unauthorized migrants (“protagonists”). These results are then replicated in a series of controlled lab experiments. We show that this effect operates through an increase in interpersonal similarity, or relatability. If information shifts perceptions of relatability, which changes people’s experience when witnessing the protagonist’s struggles, then it magnifies their empathetic response and drives them to engage in more prosocial behavior. Together, our evidence suggests that the ability to put oneself in the shoes of another person or group can be enhanced by activating empathy through simple information provision.
+  </small> </details>
+
 
 #### [The Impact of Online Competition on Local Newspapers: Evidence from the Introduction of Craigslist](https://academic.oup.com/restud/advance-article/doi/10.1093/restud/rdae049/7665573)  
 (with Ruben Durante and Greg Martin)  
